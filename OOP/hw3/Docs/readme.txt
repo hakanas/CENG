@@ -1,0 +1,2 @@
+- I used Xampp to start MySQL
+- tested with multiple clients
