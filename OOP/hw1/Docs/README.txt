@@ -1,7 +1,6 @@
 run
 
 >javac *.java
-
 >java HitcoinRunner
 
 ** Additionals:
