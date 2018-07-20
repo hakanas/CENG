@@ -1,8 +1,10 @@
-* Tested with;
-	>javac *.java
-	>java HitcoinRunner
+run
 
-* Additionals:
+>javac *.java
+
+>java HitcoinRunner
+
+** Additionals:
 
 - "Guru.java": Decorater class. 
        If conman steals money more than 20000, his size expand by 10% and a crown appears at the top of them.
